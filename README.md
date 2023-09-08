@@ -8,3 +8,8 @@
    - You will get an email to confirm your account
    - When you navigate to the repo page in zenodo take care to only give access to YOUR repo as you make see a list of institution repos
 3. Once you have linked, in GitHub make a release by going to the release pages
+4. Back on the Zenodo page a badge is automatically created, like below:
+
+[![DOI](https://zenodo.org/badge/688962363.svg)](https://zenodo.org/badge/latestdoi/688962363)
+
+
